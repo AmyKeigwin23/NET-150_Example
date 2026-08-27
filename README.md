@@ -2,9 +2,7 @@ NET-150 Example Landing Page
 ---
 # Fall 2026 NET-150-01
 
-Quick Reference File - https://example.link
-
-_this is not necessary - only add this if you want to_
+Quick Reference File - https://example.link   - _this is not necessary - only add this if you want to_
 
 ---
 _Notes:_
