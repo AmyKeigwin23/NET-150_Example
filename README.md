@@ -2,7 +2,7 @@ NET-150 Example Landing Page
 ---
 # Fall 2026 NET-150-01
 
-## Quick Reference
+## (Quick Reference File)[]
 
 _this is not necessary - only add this if you want to_
 ---
